@@ -129,15 +129,15 @@ The robot successfully:
 
 ### Gazebo Simulation
 
-(Add Gazebo screenshot here)
+![Gazebo Robot](images/gazebo_robot.png)
 
 ### RViz Mapping
 
-(Add RViz screenshot here)
+![RViz Mapping](images/rviz_mapping.png)
 
-### Generated Map
+### Laser Scan
 
-(Add map screenshot here)
+![Laser Scan](images/laser_scan.png)
 
 ---
 
