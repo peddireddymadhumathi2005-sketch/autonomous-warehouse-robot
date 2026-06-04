@@ -1,1 +1,0 @@
-/home/madhu/warehouse_ws/src/install/warehouse_robot_description/share/warehouse_robot_description/urdf/robot.urdf
