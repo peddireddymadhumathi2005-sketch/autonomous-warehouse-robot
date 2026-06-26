@@ -156,7 +156,7 @@ The robot successfully:
 
 **Madhumathi Peddireddy**
 
-* GitHub: [peddireddymadhumathi2005-sketch](https://github.com/peddireddymadhumathi2005-sketch)
+* GitHub: [peddireddymadhumathi2005-sketch](https://github.com/peddireddymadhumathi2005)
 * LinkedIn: [Madhumathi Peddireddy](https://www.linkedin.com/in/madhumathi-peddireddy-4251a6289)
 
 
