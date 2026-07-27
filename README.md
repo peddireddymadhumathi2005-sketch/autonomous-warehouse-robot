@@ -88,18 +88,10 @@ source install/setup.bash
 
 ---
 
-## Launch Simulation
+## Launch Simulation and Slam
 
 ```bash
 ros2 launch warehouse_robot_description robot.launch.py
-```
-
----
-
-## Launch SLAM
-
-```bash
-ros2 launch warehouse_robot_description slam.launch.py
 ```
 
 ---
