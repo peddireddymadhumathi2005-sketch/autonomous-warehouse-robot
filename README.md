@@ -43,7 +43,7 @@ warehouse_ws/
     └── warehouse_robot_description/
         ├── launch/
         │   ├── robot.launch.py
-        │   └── slam.launch.py
+        │   
         ├── urdf/
         │   └── robot.urdf
         ├── package.xml
